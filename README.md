@@ -34,7 +34,7 @@ Do an HTTP GET from a URL
 
  -h,--help                Show this help
  -o,--output <filename>   output file
- -v,--verbose             show processing messages
+ -v,--verbose             show HTTP headers and processing messages
 
 Examples:
 
