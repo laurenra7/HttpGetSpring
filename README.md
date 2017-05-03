@@ -3,7 +3,7 @@ Do an HTTP GET from a URL using Spring Framework [RestTemplate](https://docs.spr
 
 See [REST in Spring 3: RestTemplate](https://spring.io/blog/2009/03/27/rest-in-spring-3-resttemplate) for tutorial and examples.
 
-Spring uses the Apache [HttpComponents](http://hc.apache.org/) [HttpClient](http://hc.apache.org/httpcomponents-client-ga/index.html) for the HTTP requests.
+Spring uses the [HttpClient](http://hc.apache.org/httpcomponents-client-ga/index.html) from [Apache HttpComponents](http://hc.apache.org/) for the HTTP requests.
 
 ### Build
 
